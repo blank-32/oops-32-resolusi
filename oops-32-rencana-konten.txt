@@ -1,0 +1,2 @@
+RENCANA KONTEN OOPS-32
+- Membuat project smart home
