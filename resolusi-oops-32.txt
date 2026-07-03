@@ -1,0 +1,3 @@
+resolusi project OOPS-32:
+- membuat project 1xsebulan
+- membuat konten 1xseminggu
